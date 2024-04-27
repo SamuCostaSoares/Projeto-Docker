@@ -6,6 +6,12 @@ Este repositório contém um projeto básico desenvolvido com Django e Docker.
 
 Neste projeto, explorei como usar Docker para desenvolver e implantar aplicativos web. Aprendi a criar e gerenciar contêineres Docker para facilitar o desenvolvimento, teste e implantação de aplicativos.
 
+## Recursos de Estudo
+
+Para aprender mais sobre Docker, utilizei o seguinte vídeo como recurso de estudo:
+
+[![Vídeo de Estudo Docker](https://img.youtube.com/vi/DdoncfOdru8/0.jpg)](https://www.youtube.com/watch?v=DdoncfOdru8)
+
 ## Tecnologias Utilizadas
 
 - Docker: uma plataforma para desenvolvimento, envio e execução de aplicativos em contêineres.
